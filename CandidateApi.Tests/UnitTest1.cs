@@ -37,7 +37,7 @@ namespace CandidateApi.Tests
                 Email = "sum3pok@gmail.com",
                 CallInterval = "7 AM - 10 AM",
                 LinkedInProfileUrl = "https://www.linkedin.com/in/suman-pokharel-127140131/",
-                GitHubProfileUrl = "https://github.com/suman",
+                GitHubProfileUrl = "https://github.com/sumanpo123/CandidateAPI",
                 Comment = "Looking for Software Developer position."
             };
 
